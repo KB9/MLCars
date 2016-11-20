@@ -1,0 +1,9 @@
+﻿  NeuronLayer.cpp
+  Neuron.cpp
+  NeuralNet.cpp
+  GenAlg.cpp
+c:\users\kavan\documents\visual studio 2015\projects\neuralnettest\neuralnettest\genalg.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\kavan\documents\visual studio 2015\projects\neuralnettest\neuralnettest\genalg.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\kavan\documents\visual studio 2015\projects\neuralnettest\neuralnettest\genalg.cpp(148): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MachineLearning.vcxproj -> C:\Users\kavan\documents\visual studio 2015\Projects\NeuralNetTest\Debug\MachineLearning.lib

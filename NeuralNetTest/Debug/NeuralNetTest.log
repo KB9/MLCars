@@ -1,0 +1,7 @@
+﻿  GameScreen.cpp
+c:\users\kavan\documents\visual studio 2015\projects\neuralnettest\neuralnettest\gamescreen.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kavan\documents\visual studio 2015\projects\neuralnettest\neuralnettest\gamescreen.cpp(49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kavan\documents\visual studio 2015\projects\neuralnettest\neuralnettest\gamescreen.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\kavan\documents\visual studio 2015\projects\neuralnettest\neuralnettest\gamescreen.cpp(170): warning C4018: '<': signed/unsigned mismatch
+  NeuralNetTest.vcxproj -> C:\Users\kavan\documents\visual studio 2015\Projects\NeuralNetTest\Debug\NeuralNetTest.exe
+  NeuralNetTest.vcxproj -> C:\Users\kavan\documents\visual studio 2015\Projects\NeuralNetTest\Debug\NeuralNetTest.pdb (Partial PDB)
